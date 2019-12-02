@@ -1,0 +1,5 @@
+Ler para próxima aula:
+links:
+https://www.devmedia.com.br/os-4-pilares-da-programacao-orientada-a-objetos/9264
+https://www.caelum.com.br/apostila-python-orientacao-objetos/estrutura-de-dados/#sequências
+https://medium.com/@nelziositoe/base-da-programa%C3%A7%C3%A3o-com-python-estrutura-de-dados-capitulo-4-cdeb6091b2de
